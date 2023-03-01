@@ -1,0 +1,18 @@
+1. FragmentContainerView
+2. ViewBinding
+3. ViewBindingKTX
+4. BRV
+5. BRV + ViewBinding
+
+//
+
+6. BRV + divider
+7. color 库
+8. 重构 BaseAct，不参与 Fragment 的实例化
+9. 分离 BaseBindingFragment & BaseFra
+10. koin
+
+//
+
+11. splitties 替换 color 库
+12. stateLayout
